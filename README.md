@@ -1,13 +1,12 @@
-## Hi, ich bin Martin 👋
+## Hi, I'm Martin 👋
 
-🤖 **Software-Ingenieur · Data Scientist · AI-Ingenieur**
+🤖 **Software Engineer · Data Scientist · AI Engineer**
 
-Ich entwickle KI- und GenAI-Lösungen – von agentenbasierten
-RAG-Chatbots bis zu Multiagenten-Systemen. Programmieren ist
-meine Leidenschaft, Daten und KI mein Spielfeld.
+I build AI and GenAI solutions – from agent-based RAG chatbots
+to multi-agent systems. Coding is my passion, data and AI my
+playground.
 
-- 🔭 Aktuell: Generative KI, LLMs & Agenten
-- 🌱 Privat: Smart-Home-Voice-Chatbot (vollständig lokal)
-- 💬 Sprachen: Python, C#, C
+- 🔭 Currently: Generative AI, LLMs & Agents
+- 💬 Languages: Python, C#, C
 
-📫 [LinkedIn](https://www.linkedin.com/in/martin-lauff-415984283) · Martin.Lauff.ing@mail.de
+📫 [LinkedIn](https://www.linkedin.com/in/martin-lauff-415984283)
